@@ -5,13 +5,15 @@ Problema:
 
 Ler dados/informações do registro do ruwindows de um sistema que não inicia, mas ainda se tem acesso ao disco.
 
-Uma das soluções: copiar o arquivo de registro, o SYSTEM, extrair dados deste arquivo binário para um formato em texto plano ou similar, como por exemplo, XML
+Uma das soluções: copiar o arquivo de registro, o SYSTEM, extrair dados deste arquivo binário para um formato em texto plano ou similar, como por exemplo, XML.
+
+O script está na versão 0.3. Estão mencionados os ajustes feitos no script durante os testes.
 
 Pesquisar no arquivo gerado com os dados por uma string, por exemplo, Hostname da máquina.
 
 Dependende do pacote libehivex-bin
 
-Link Youtube:
+Link Youtube: https://youtu.be/QJDe_q3lEBw
 
 Links utilizados para este script
 
